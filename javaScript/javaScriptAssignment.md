@@ -29,6 +29,6 @@ function favor(2,3) {
 }
 
 
-this mean that the name after the function is the function name, the parenthesis after the function name represented the the parameter of the function name, parameters are name that represent the value of the function name when the function is called.
+this mean that the name after the function is the function name, the parenthesis after the function name represented the the parameter of the function name, parameters are name that represent the value of the function name when the function is called.  
 
 
