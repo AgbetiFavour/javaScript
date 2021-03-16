@@ -14,7 +14,8 @@ Arithmetic Expressions: evaluated a unit of code to a numeric value.
 
 # What is the difference between statements/expressions?
 
-Statement is a set of Instruction written in form of code to be executed by the browser while expressions is evaluated a numeric value.   
+Statement is a set of Instruction written in form of code to be executed by the browser while expressions is evaluated a numeric value.    
+
 
 # Explain JavaScript functions in your own words
 

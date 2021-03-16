@@ -17,3 +17,5 @@ function digit(ten,two,yellow) {
 console.log(digit(100, 50,"multiply"));
 console.log(digit(100, 50,"divide"));
 console.log(digit(100, 50,"sum"));
+
+
