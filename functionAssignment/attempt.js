@@ -13,4 +13,4 @@ function number(forty,four,goat) {
 console.log(number(100,10,"sum"));
 console.log(number(100,10,"multiply"));
 console.log(number(100,10,"divide"));
-console.log(number(100,10,"subtract"));,m
+console.log(number(100,10,"subtract"));

@@ -1,6 +1,6 @@
 # DIfference between function argument and parameter with example 
 
-Argument is the actual value return when a function is called while parameter is the value given to a declear function.  
+Argument is the actual value return when a function is called while parameter is the value given to a declare function.  
   
   E.g  
 
@@ -15,9 +15,9 @@ console.log(person())
 
 Name and Favour are the parameter value declear and true is the argument.
 
-# Explain concatenation with example
+Explain concatenation with examples
 
- Concatenation is the joining of two string together to give a particular result. 
+Concatenation is the joining of two string together to give a particular result. 
 
  E.g
 

@@ -16,7 +16,7 @@ const person = {
         ram: "4gb",
         rom: "32gb",
         version: 10.0
-    };
+    }
   
   };
   

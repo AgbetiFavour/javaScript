@@ -1,11 +1,11 @@
 # 1.  Explain JavaScript statements with example
   
     
-    JavaScript statements can be said to be a set of Instruction to be executed by the browser.  
+ JavaScript statements can be said to be a set of Instruction to be executed by the browser.  
 
-      document.getElementById("header").innerHTML = "Hello Favour";  
+document.getElementById("header").innerHTML = "Hello Favour";  
 
-# 2  Explain JavaScript expressions with example  
+# 2 Explain JavaScript expressions with example  
 
 Expressions is any unit of code that can be evaluated to a value since it's can appear anywhere in the code.  
 Type of expressions:  
@@ -30,6 +30,6 @@ function favor(2,3) {
 }
 
 
-this mean that the name after the function is the function name, the parenthesis after the function name represented the the parameter of the function name, parameters are name that represent the value of the function name when the function is called.
+this mean that the name after the function is the function name, the parenthesis after the function name represented the the parameter of the function name, parameters are name that represent the value of the function name when the function is called.  
 
 
