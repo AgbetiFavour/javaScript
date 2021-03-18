@@ -51,3 +51,4 @@ const person = {
   };
 
   console.log(electronic.manufactureYear)
+
