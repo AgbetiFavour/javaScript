@@ -27,6 +27,6 @@ array.forEach(element => console.log(element));
 
 # Explain For of loops with example
  This is the type of looping that loops through the values of an iterable object
-for (var i = 0; i < 9; i++) {
-   console.log(i);
+for (const index = 0; index < 9; index++) {
+   console.log(index);
 }
