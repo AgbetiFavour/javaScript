@@ -2,14 +2,14 @@
 
 HOF mean high order function, It's can be define as a function that can accept and/ or return another function. 
 
-    function digit(two){
-    return ten => ten * two
+    function multiplyNumber(factor){
+    return product => product * factor
     }
 
-    const number = digit(4);
+    const doMaths = multiplyNumber(4);
 
-    number(3);
-<!-- the function return 12 as argument -->
+    doMaths(4);
+<!-- the function return 16 as argument -->
 
 # Explain the map and reduce methods with example
 
