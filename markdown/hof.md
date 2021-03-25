@@ -3,7 +3,9 @@
 HOF mean high order function, It's can be define as a function that can accept and/ or return another function. 
 
     function multiplyNumber(factor){
-    return product => product * factor
+    return function(product)  {
+        return product * factor
+        }
     }
 
     const doMaths = multiplyNumber(4);
